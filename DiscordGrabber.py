@@ -1,3 +1,5 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
 from aiogram import Bot, types
 import requests, time, asyncio, re
 from selenium import webdriver
